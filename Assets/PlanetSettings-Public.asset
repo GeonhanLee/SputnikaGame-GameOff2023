@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c058e3beabb4244a16002d5a0391de, type: 3}
+  m_Name: PlanetSettings-Public
+  m_EditorClassIdentifier: 
+  _massCalculateMultiplier: 5
+  _planetData:
+  - name: Sputnik
+    id: 0
+    sprite: {fileID: 0}
+    color: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
+    radius: 0.25
+    mass: 0.9817477
+    mergeScore: 1
+  - name: Mercury
+    id: 1
+    sprite: {fileID: 0}
+    color: {r: 0.6313726, g: 0.4156863, b: 1, a: 1}
+    radius: 0.35
+    mass: 1.924225
+    mergeScore: 3
+  - name: Venus
+    id: 2
+    sprite: {fileID: 0}
+    color: {r: 0.9921569, g: 0.52156866, b: 0.08627451, a: 1}
+    radius: 0.475
+    mass: 3.544109
+    mergeScore: 6
+  - name: Earth
+    id: 3
+    sprite: {fileID: 0}
+    color: {r: 0.13466519, g: 0.6132076, b: 0, a: 1}
+    radius: 0.625
+    mass: 6.1359234
+    mergeScore: 10
+  - name: Mars
+    id: 4
+    sprite: {fileID: 0}
+    color: {r: 0.8018868, g: 0.11773949, b: 0, a: 1}
+    radius: 0.8
+    mass: 10.053097
+    mergeScore: 15
+  - name: Uranus
+    id: 5
+    sprite: {fileID: 0}
+    color: {r: 0, g: 0.49443495, b: 0.8113208, a: 1}
+    radius: 1
+    mass: 15.707964
+    mergeScore: 21
+  - name: Neptune
+    id: 6
+    sprite: {fileID: 0}
+    color: {r: 0.16862746, g: 0.16862746, b: 0.36078432, a: 1}
+    radius: 1.225
+    mass: 23.571764
+    mergeScore: 28
+  - name: Saturn
+    id: 7
+    sprite: {fileID: 0}
+    color: {r: 0.7830189, g: 0.580238, b: 0.411208, a: 1}
+    radius: 1.475
+    mass: 34.17464
+    mergeScore: 36
+  - name: Jupiter
+    id: 8
+    sprite: {fileID: 0}
+    color: {r: 0.49056602, g: 0.25696316, b: 0, a: 1}
+    radius: 1.75
+    mass: 48.10564
+    mergeScore: 45
+  - name: Sun
+    id: 9
+    sprite: {fileID: 0}
+    color: {r: 1, g: 0, b: 0.030038834, a: 1}
+    radius: 2
+    mass: 62.831856
+    mergeScore: 55
