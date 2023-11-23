@@ -3,7 +3,7 @@
 
 A submission for Game Off 2023, themed 'Scale'. 
 
-Some assets are not included to the repository.  
+Some assets and scripts may be not included or outdated compared to the released version.  
 You can play the full version [here](https://egunan.itch.io/sputnika-game).
 
 This game is created in three days, it is definitely not clean and optimized.
